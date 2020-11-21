@@ -1,0 +1,22 @@
+#contain {
+    background-color: #03989e;
+    height: 100vh;
+    margin-top: 0em;
+}
+
+#about {
+    margin-top: 2em;
+}
+.aboutTitle1, .and, .aboutTitle2 {
+    font-family: 'lato', sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    color: #141414;
+    display: flex;
+    justify-content: center;
+}
+
+.aboutTitle2 {
+    color: white;
+}
+

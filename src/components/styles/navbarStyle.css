@@ -1,0 +1,29 @@
+#navbar {
+    background-color: #141414;
+}
+
+#navlink {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#logo {
+    color: white;
+    font-family: 'lato', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-left: 1em;
+}
+
+#nav {
+    color: white;
+    font-family: 'lato', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-right: 2em;
+}
+
+#toggle {
+    background-color: white;
+}
